@@ -1,0 +1,7 @@
+﻿1>------ 已启动生成:  项目: ConsoleApplication3, 配置: Debug Win32 ------
+1>  源.cpp
+1>c:\users\jia\documents\visual studio 2013\projects\consoleapplication3\consoleapplication3\源.cpp(97): warning C4101: “j”: 未引用的局部变量
+1>c:\users\jia\documents\visual studio 2013\projects\consoleapplication3\consoleapplication3\源.cpp(163): error C2143: 语法错误 : 缺少“;”(在“*”的前面)
+1>c:\users\jia\documents\visual studio 2013\projects\consoleapplication3\consoleapplication3\源.cpp(163): error C4430: 缺少类型说明符 - 假定为 int。注意:  C++ 不支持默认 int
+1>c:\users\jia\documents\visual studio 2013\projects\consoleapplication3\consoleapplication3\源.cpp(167): error C2065: “c”: 未声明的标识符
+========== 生成:  成功 0 个，失败 1 个，最新 0 个，跳过 0 个 ==========
